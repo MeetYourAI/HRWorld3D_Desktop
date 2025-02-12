@@ -64,7 +64,7 @@ _HR World_ is an interactive realm within Magic Worlds that immerses players in 
   
  ## **🖥️Tech Stack**
 
-_ Magic Worlds_ is built using the following technologies:
+_Magic Worlds_ is built using the following technologies:
 - **Game Engine**: Godot Game Engine
 - **Programming Languages**: GDScript, Python, JavaScript
 - **Database**: MySQL, MongoDB
